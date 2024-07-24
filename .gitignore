@@ -30,3 +30,20 @@
 *.exe
 *.out
 *.app
+
+# Gnuplot files
+*.plot
+
+# Vscode files and folders
+.vscode
+ising.code-workspace
+
+# Output gifs
+*.gif
+
+# Folders
+/info
+/ordenado
+/test
+/graficas gnuplot y codigo antiguo
+/aleatorio
